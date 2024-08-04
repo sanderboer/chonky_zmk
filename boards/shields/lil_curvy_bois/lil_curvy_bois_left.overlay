@@ -1,0 +1,12 @@
+#include "lil_curvy_bois.dtsi"
+
+&kscan0 {
+
+col-gpios
+            = <&gpio0 17 GPIO_ACTIVE_HIGH>
+            , <&gpio0 20 GPIO_ACTIVE_HIGH>
+            , <&gpio0 22 GPIO_ACTIVE_HIGH>
+            , <&gpio0 24 GPIO_ACTIVE_HIGH>
+            , <&gpio1 00 GPIO_ACTIVE_HIGH>
+            ;
+};
