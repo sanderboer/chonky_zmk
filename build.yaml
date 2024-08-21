@@ -22,3 +22,5 @@ include:
     shield: lil_curvy_bois_left
   - board: nice_nano_v2
     shield: lil_curvy_bois_right
+  - board: nice_nano_v2
+    shield: settings_reset
